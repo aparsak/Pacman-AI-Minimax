@@ -110,9 +110,7 @@ You can adjust the coefficients in the utility function to experiment with diffe
 
 - Increase the point score to make Pacman more aggressive in pursuing points.
 - Increase the ghost penalty to make Pacman more cautious and prioritize survival.
-
-Imagine Pacman is standing two tiles away from a point but also three tiles away from a ghost. The utility function will weigh the benefit of moving towards the point against the risk posed by the ghost. If the potential gain (collecting the point) outweighs the risk (being caught by the ghost), the AI will choose that move. Conversely, if the ghost is too close, the danger penalty will likely push the AI to choose a safer direction.
-
+  
 
 ## 👨‍💻 Contributing
 
