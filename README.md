@@ -8,7 +8,7 @@ Please note that this README is still a work in progress. I am actively working 
 Welcome to **Simple Pacman with Minimax AI**! This project is a Python-based implementation of the classic Pacman game, enhanced with AI gameplay using the Minimax algorithm with Alpha-Beta pruning. The AI navigates Pacman through a maze, collecting points and avoiding ghosts.
 
 ## 🎬 Program Demo 
-![pacman minimax demo](/demo.webm)
+![pacman minimax demo](/demo.mp4)
 
 ## 📋 Overview
 
@@ -112,17 +112,6 @@ You can adjust the coefficients in the utility function to experiment with diffe
 - Increase the ghost penalty to make Pacman more cautious and prioritize survival.
 
 Imagine Pacman is standing two tiles away from a point but also three tiles away from a ghost. The utility function will weigh the benefit of moving towards the point against the risk posed by the ghost. If the potential gain (collecting the point) outweighs the risk (being caught by the ghost), the AI will choose that move. Conversely, if the ghost is too close, the danger penalty will likely push the AI to choose a safer direction.
-
-Customizing the Utility Function
-
-
-
-You can customize the coefficients in the utility function to adjust how aggressive or cautious Pacman is:
-
-Increase the point score to make Pacman more aggressive in pursuing points.
-Increase the ghost penalty to make Pacman more cautious and prioritize survival.
-These tweaks allow you to experiment with different strategies and observe how they impact Pacman’s behavior.
-
 
 
 ## 👨‍💻 Contributing
