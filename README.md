@@ -47,7 +47,7 @@ Welcome to **Simple Pacman with Minimax AI**! This project is a Python-based imp
 
 ## 🧠 Key Concepts
 
-- **Manhattan Distance:** Calculates the shortest path in the grid.
+- **Manhattan Distance:** Use manhattan distance to calculates the shortest path in the grid.
 - **Utility Function:** Evaluates game states based on Pacman’s proximity to points and ghosts.
 
 ## 📈 Performance
