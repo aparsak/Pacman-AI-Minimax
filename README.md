@@ -8,7 +8,10 @@ Please note that this README is still a work in progress. I am actively working 
 Welcome to **Simple Pacman with Minimax AI**! This project is a Python-based implementation of the classic Pacman game, enhanced with AI gameplay using the Minimax algorithm with Alpha-Beta pruning. The AI navigates Pacman through a maze, collecting points and avoiding ghosts.
 
 ## 🎬 Program Demo 
-![pacman minimax demo](/demo.mp4)
+
+https://github.com/user-attachments/assets/f6ff1386-668d-4e18-a880-691cfecca919
+
+
 
 ## 📋 Overview
 
